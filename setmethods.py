@@ -1,4 +1,4 @@
-#This is the shit! #Starting to use the modules to handle strings... let`s see 
+#This is the shit! #Starting to use the string handlers from scratch and from simplest , let`s see
 
 import re
 
